@@ -1,0 +1,4 @@
+com\tricon\demoSpring\Controller\EmployeeController.class
+com\tricon\demoSpring\DemoSpringApplication.class
+com\tricon\demoSpring\Model\Employee.class
+com\tricon\demoSpring\Service\EmployeeService.class
